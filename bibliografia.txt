@@ -1,4 +1,2 @@
 Chacon, S. and Straub, B. Pro Git. Apress.
-• Loeliger, J. and McCullough, M. Version control with Git. O’Reilly.
-• Hodson, R. Ry’s Git Tutorial. Smashwords (2014)
-[A[3~[C[[3~[3~[3~[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3~[3~[B[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[A C[24 Chacon, S and Straub, BPro Git.Apress[3~[3~[C[C.[B[B[B[A[F[F[F[B[B[C[C[C[B[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+Loeliger, J. and McCullough, M. Version control with Git. O'Reilly.
